@@ -1,4 +1,4 @@
-# Gesture Recognition System 👋🖱️
+# Gesture Recognition System 
 
 An AI-powered virtual mouse system enabling hands-free computer control through intuitive hand gestures.
 
