@@ -34,7 +34,7 @@ bash
 python Gesture_Controller.py
 
 
-## 🤲 Gesture Controls
+##  Gesture Controls
 
 | Gesture | Action |
 |---------|--------|
@@ -77,7 +77,7 @@ The system captures video input from your webcam and processes it through a comp
 - numpy
 - pyautogui
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 - *Poor detection*: Ensure proper lighting and clear hand visibility
 - *Cursor jitter*: Increase smoothing factor in configuration
